@@ -174,3 +174,4 @@ if len(clinics)!=0:
 
 
 
+#https://www.fertilityiq.com/fertility-clinic/cleveland-clinic-fertility-center
