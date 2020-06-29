@@ -2,7 +2,7 @@
 Build Streamlit app to predict ART clinic performance. 
 
 """
-pip install matplotlib
+#pip install matplotlib
 
 import streamlit as st
 import pandas as pd
