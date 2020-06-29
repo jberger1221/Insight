@@ -2,18 +2,19 @@
 Build Streamlit app to predict ART clinic performance. 
 
 """
+pip install matplotlib
 
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
-import operator
-import plotly.figure_factory as ff
-import geopandas as gpd
-import geopy
-from geopy.geocoders import Nominatim
-import plotly.express as px
+#import operator
+#import plotly.figure_factory as ff
+#import geopandas as gpd
+#import geopy
+#from geopy.geocoders import Nominatim
+#import plotly.express as px
 
 #from sklearn.preprocessing import PolynomialFeatures
 #from sklearn.linear_model import LinearRegression
