@@ -55,7 +55,7 @@ st.image(image, width =150)
 # Heading of webapp
 #
 st.title("Fertile Crescent") 
-st.header("Creating life with informed descisions")
+st.header("Creating life with informed decisions")
 
 #
 #st.subheader("About")
@@ -73,6 +73,8 @@ st.sidebar.title("How to Use")
 st.sidebar.subheader("1. Select a Review site.")
 st.sidebar.subheader("2. Select a Clinic to view Clinic Topics and CDC Success Rates.")
 st.sidebar.subheader("3. Select a Topic to view a summary of the reviews for that topic.")
+st.sidebar.subheader("4. Select a Sentiment to view a summary with a particular sentiment.")
+st.sidebar.subheader("5. View Summary, full reviews, and CDC data on the right.")
 #st.write(" ")
 ############################################################################################
 ##################################        DATA              ################################
